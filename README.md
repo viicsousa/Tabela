@@ -4,7 +4,7 @@
 
  **Projeto do curso IMA**, desenvolvido por mim, utilizando HTML, CSS e media queries para um design mais responsivo.
 
-![image](https://user-images.githubusercontent.com/104572313/176507068-8523b436-0b39-4148-a8ce-f134684456bc.png)
+![image](https://user-images.githubusercontent.com/104572313/176507401-33180f53-67a8-4f39-8bc1-9428cb366e88.png)
 
 
 
